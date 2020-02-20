@@ -1,0 +1,2 @@
+d:\Users\Admin\source\repos\extensionmethod\extensionmethod\obj\Debug\extensionmethod.csprojResolveAssemblyReference.cache
+d:\Users\Admin\source\repos\extensionmethod\extensionmethod\obj\Debug\extensionmethod.csproj.CoreCompileInputs.cache
